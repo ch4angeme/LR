@@ -32,8 +32,8 @@
   ```bash
   git pull
   ```
-![screen](screen/1.png)
-![screen](screen/2.png)
+![screen](screen/screen1.png)
+![screen](screen/screen2.png)
 
  7. Получена история операций для каждой из веток:
   ```bash
@@ -44,7 +44,7 @@
   ```bash
   git log -p -1
   ```
-![screen](screen/3.png)
+![screen](screen/screen3.png)
 
  9. Ветка с изменениями была слита в ветку `master`:
   ```bash
@@ -71,8 +71,8 @@
   git log --oneline
   git revert c7454ab
   ```
-![screen](screen/4.png)
-![screen](screen/5.png)
+![screen](screen/screen4.png)
+![screen](screen/screen5.png)
 
  13. Создана отдельная ветка для оформления отчёта:
   ```bash
@@ -86,7 +86,7 @@
   ```bash
   git log --pretty=format:"%h - %ad - %an - %s" --date=short
   ```
-![screen](screen/7.png)
+![screen](screen/screen7.png)
 
  16. Локальные изменения отправлены в удалённый репозиторий на GitHub:
   ```bash
