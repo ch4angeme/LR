@@ -32,7 +32,7 @@
   ```bash
   git pull
   ```
-![screen](screen/1.png)
+![screen](screen1.png)
 ![screen](screen/2.png)
 
  7. Получена история операций для каждой из веток:
