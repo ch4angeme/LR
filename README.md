@@ -78,7 +78,7 @@
   ```bash
   git checkout -b rep
   ```
-![screen](screen/6.png)
+![screen](screen/screen6.png)
 
  14. Отчёт оформлен в файле `README.md` с использованием markdown синтаксиса, cкриншоты консоли и сторонних программ добавлены в отдельную папку `screen`.
 
