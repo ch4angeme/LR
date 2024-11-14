@@ -90,7 +90,7 @@
 
  16. Локальные изменения отправлены в удалённый репозиторий на GitHub:
   ```bash
-  git push origin report
+  git push origin rep
   ```
 
 Вывод:
