@@ -21,7 +21,7 @@
   git config --global user.name "В3441 Demidova PI"
   git config --global user.email "polnakkot@yandex.ru"
   ```
-![screen](screen/12.png)
+![screen](screen/screen12.png)
 
  5. Личный удалённый репозиторий был клонирован на компьютер:
   ```bash
@@ -32,7 +32,7 @@
   ```bash
   git pull
   ```
-![screen](screen1.png)
+![screen](screen/1.png)
 ![screen](screen/2.png)
 
  7. Получена история операций для каждой из веток:
