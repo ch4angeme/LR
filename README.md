@@ -46,7 +46,7 @@
 
  9. Ветка с изменениями была слита в ветку `master`:
   ```bash
-  git checkout -b новая_ветка
+  git checkout -b new_branch
   git add .
   git commit -m "Add 1 change"
   git checkout master
